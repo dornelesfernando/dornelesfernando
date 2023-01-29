@@ -32,7 +32,7 @@ align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/d
 </div> </br>
 
 <div align="center">
-  <img align="center" alt="VsCode" height="400" width="700" src="https://wakatime.com/share/@dornelesfernando/053058b0-4130-44f9-aa23-e275fee823ec.svg"></img>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dornelesfernando" />
 </div>
 
 <h1>
