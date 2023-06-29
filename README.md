@@ -1,10 +1,10 @@
-<div><h1> Hello World!
+<div><h1> Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></img>
 </h1></div>
 
 <div><h3>
 <p>💬 Tenho 17 anos e estou iniciando no ramo de programação
-<p>📫 Cursando Técnico Integrado em Informática</p>
+<p>📫 Cursando Técnico em Informática</p>
 </br>
 </div></h3>
 
