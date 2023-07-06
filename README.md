@@ -6,13 +6,6 @@
 <p>💬 Tenho 17 anos e estou iniciando no ramo de programação
 <p>📫 Cursando Técnico em Informática</p>
 </br>
-</div></h3>
-
-<div>
-
-![FernandoDorneles GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelesfernando&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelesfernando&layout=compact&langs_count=7&theme=dracula)
-</div>
 
 <div></br>
 <code><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -28,7 +21,7 @@
 
 <div>
 <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img> •
-<img align="center" alt="Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></img> •
+<!--<img align="center" alt="Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></img> •-->
 <img align="center" alt="ArduinoIDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"></img>
 </div> </br>
 
