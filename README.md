@@ -26,7 +26,11 @@
 </div> </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dornelesfernando" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dornelesfernando" /></br>
+ 
+  <a href="https://wakatime.com/@baef9f39-b902-46fe-8782-24dcaee377e9">
+   <img src="https://wakatime.com/badge/user/baef9f39-b902-46fe-8782-24dcaee377e9.svg" alt="Total time coded since Aug 19 2022" />
+  </a>
 </div>
 
 <h1>
