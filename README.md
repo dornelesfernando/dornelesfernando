@@ -42,8 +42,8 @@
 
 </br>
 
-<div align = "center">
+<!--<div align = "center">
 <h2>My contributions in the last year</h2>
 
  <img alt="snake eating my contribution" src="https://github.com/dornelesfernando/dornelesfernando/blob/output/github-contribution-grid-snake.svg">
-<div>
+<div>-->
