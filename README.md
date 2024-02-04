@@ -3,7 +3,7 @@
 </h1></div>
 
 <div><h3>
-<p>💬 Tenho 17 anos e estou iniciando no ramo de programação
+<p>💬 "Se pode ser imagindo, pode ser concretizado"</p>
 <p>📫 Cursando Técnico em Informática</p>
 </br>
 
