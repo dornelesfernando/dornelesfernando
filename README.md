@@ -3,7 +3,7 @@
 </h1></div>
 
 <div><h3>
-<p>💬 "Se pode ser imagindo, pode ser concretizado"</p>
+<p>💬 "Se pode ser imaginado pode ser criado"</p>
 <p>📫 Cursando Técnico em Informática</p>
 </br>
 
