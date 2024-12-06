@@ -4,7 +4,7 @@
 
 <div><h3>
 <p>💬 "Se pode ser imaginado pode ser criado"</p>
-<p>📫 Cursando Técnico em Informática</p>
+<p>📫 <strong>Técnico em Informática</strong> pelo Instituto Federal de Educação Ciência e Tecnologia Farroupilha - <i>Campus</i> Santo Ângelo</p>
 </br>
 
 <div></br>
