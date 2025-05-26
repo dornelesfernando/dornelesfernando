@@ -4,12 +4,13 @@
 
 <div><h3>
 <p>💬 "Se pode ser imaginado pode ser criado"</p>
-<p>📫 <strong>Técnico em Informática</strong> pelo Instituto Federal de Educação Ciência e Tecnologia Farroupilha - <i>Campus</i> Santo Ângelo</p>
+<p>📚 <strong>Engenheiro de Computação</strong> graduando pela Universidade Federal de Santa Maria</p>
+<p>🎓 <strong>Técnico em Informática</strong> pelo Instituto Federal de Educação Ciência e Tecnologia Farroupilha - <i>Campus</i> Santo Ângelo</p>
 </br>
 
 <div></br>
 <code><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<!--<code><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>-->
+<code><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img></code>
  「•」
