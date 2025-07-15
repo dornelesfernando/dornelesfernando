@@ -43,7 +43,7 @@
 ### Minhas Estatísticas de Codificação 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dornelesfernando&layout=compact&hide_title=true&hide_border=true&card_width=400" alt="Estatísticas Wakatime" />
+  <img src="https://wakatime.com/share/@dornelesfernando/35252ca9-75f6-4a21-ab3a-df68718d70f9.svg" width="400" />
   <br/>
   <a href="https://wakatime.com/@baef9f39-b902-46fe-8782-24dcaee377e9">
    <img src="https://wakatime.com/badge/user/baef9f39-b902-46fe-8782-24dcaee377e9.svg" alt="Total time coded since Aug 19 2022" />
